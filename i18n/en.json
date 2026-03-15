@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "vision": "Vision",
+    "activities": "Activities",
+    "team": "Team",
+    "contact": "Contact",
+    "join": "Join Us"
+  },
+  "hero": {
+    "badge": "Izmir University of Economics",
+    "title1": "Global Leaders",
+    "title2": "Club",
+    "subtitle": "A student community where we develop our leadership skills together, gain an international perspective, and grow by creating together.",
+    "cta": "Join Us",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "badge": "Who Are We?",
+    "title": "What is the Global Leaders Club?",
+    "description": "The Global Leaders Club is a student community where we develop our leadership skills together, gain an international perspective, and grow by creating together.",
+    "stat1Value": "2025",
+    "stat1Label": "Founded",
+    "stat2Value": "4",
+    "stat2Label": "Board Members",
+    "stat3Value": "1",
+    "stat3Label": "Goal, One Community",
+    "stat4Value": "∞",
+    "stat4Label": "Vision"
+  },
+  "vision": {
+    "badge": "Mission & Vision",
+    "missionTitle": "Our Mission",
+    "missionText": "Global in thought, bold in action, and moving together!",
+    "visionTitle": "Our Vision",
+    "visionText": "To create a community that thinks on a global scale, takes responsibility, and grows stronger by coming together with diverse perspectives.",
+    "value1Title": "Global Thinking",
+    "value1Desc": "We think with a worldwide perspective and create solutions for local and global challenges.",
+    "value2Title": "Bold Steps",
+    "value2Desc": "We don't hesitate to step outside our comfort zone and act with innovative ideas.",
+    "value3Title": "Strength in Unity",
+    "value3Desc": "We build a stronger community by bringing different perspectives together.",
+    "value4Title": "Leadership",
+    "value4Desc": "We create space for every individual to discover and develop their leadership potential."
+  },
+  "activities": {
+    "badge": "What We Do",
+    "title": "Events & Projects",
+    "subtitle": "Through events, projects, workshops, and the strong bonds we create, we prepare together for the leadership journey of the future!",
+    "item1Title": "Workshops",
+    "item1Desc": "Interactive workshops focused on leadership, communication, project management, and personal development.",
+    "item2Title": "Conferences",
+    "item2Desc": "Inspiring conferences and panel discussions with expert speakers in their fields.",
+    "item3Title": "Projects",
+    "item3Desc": "Gaining experience by leading social responsibility and entrepreneurship projects.",
+    "item4Title": "Networking",
+    "item4Desc": "Building strong connections with students from different universities and countries.",
+    "item5Title": "Mentorship",
+    "item5Desc": "Preparing for your career journey with guidance from experienced professionals.",
+    "item6Title": "Social Events",
+    "item6Desc": "Fun and bonding social activities that build team spirit."
+  },
+  "team": {
+    "badge": "Board of Directors",
+    "title": "Our Team",
+    "subtitle": "The passionate leaders who drive our club forward.",
+    "president": "President",
+    "vicePresident": "Vice President",
+    "secretary": "General Secretary",
+    "coordinator": "Events Coordinator"
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Get in Touch",
+    "subtitle": "Contact us for your questions or collaboration proposals.",
+    "email": "Email",
+    "location": "Location",
+    "locationValue": "Izmir University of Economics",
+    "social": "Social Media",
+    "joinTitle": "Want to Join the Club?",
+    "joinDesc": "Take the first step in your leadership journey by joining the Global Leaders Club family.",
+    "joinBtn": "Application Form"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "university": "Izmir University of Economics",
+    "club": "Global Leaders Club"
+  }
+}

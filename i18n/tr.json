@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "vision": "Vizyon",
+    "activities": "Etkinlikler",
+    "team": "Ekip",
+    "contact": "İletişim",
+    "join": "Bize Katıl"
+  },
+  "hero": {
+    "badge": "İzmir Ekonomi Üniversitesi",
+    "title1": "Küresel Liderler",
+    "title2": "Kulübü",
+    "subtitle": "Liderlik becerilerimizi beraber geliştirdiğimiz, uluslararası perspektif kazandığımız ve birlikte üreterek büyüyeceğimiz bir öğrenci topluluğu.",
+    "cta": "Bize Katıl",
+    "learnMore": "Daha Fazla"
+  },
+  "about": {
+    "badge": "Biz Kimiz?",
+    "title": "Küresel Liderler Kulübü Nedir?",
+    "description": "Küresel Liderler Kulübü, liderlik becerilerimizi beraber geliştirdiğimiz, uluslararası perspektif kazandığımız ve birlikte üreterek büyüyeceğimiz bir öğrenci topluluğudur.",
+    "stat1Value": "2025",
+    "stat1Label": "Kuruluş Yılı",
+    "stat2Value": "4",
+    "stat2Label": "Yönetim Kurulu",
+    "stat3Value": "1",
+    "stat3Label": "Hedef, Bir Topluluk",
+    "stat4Value": "∞",
+    "stat4Label": "Vizyon"
+  },
+  "vision": {
+    "badge": "Amaç & Vizyon",
+    "missionTitle": "Amacımız",
+    "missionText": "Düşüncede küresel, adımda cesur ve beraber hareket etmek!",
+    "visionTitle": "Vizyonumuz",
+    "visionText": "Dünya ölçeğinde düşünebilen, sorumluluk alan ve farklı bakış açılarıyla bir araya gelerek güçlendiğimiz bir topluluk yaratmak.",
+    "value1Title": "Küresel Düşünce",
+    "value1Desc": "Dünya çapında bir perspektifle düşünür, yerel ve küresel sorunlara çözüm üretiriz.",
+    "value2Title": "Cesur Adımlar",
+    "value2Desc": "Konfor alanımızın dışına çıkmaktan çekinmez, yenilikçi fikirlerle hareket ederiz.",
+    "value3Title": "Birlikte Güç",
+    "value3Desc": "Farklı bakış açılarını bir araya getirerek daha güçlü bir topluluk inşa ederiz.",
+    "value4Title": "Liderlik",
+    "value4Desc": "Her bireyin liderlik potansiyelini keşfetmesi ve geliştirmesi için alan yaratırız."
+  },
+  "activities": {
+    "badge": "Neler Yapıyoruz?",
+    "title": "Etkinlikler & Projeler",
+    "subtitle": "Etkinlikler, projeler, atölyeler ve kurduğumuz güçlü bağlarla, geleceğin liderlik yolculuğuna hep birlikte hazırlanıyoruz!",
+    "item1Title": "Atölyeler",
+    "item1Desc": "Liderlik, iletişim, proje yönetimi ve kişisel gelişim odaklı interaktif atölye çalışmaları.",
+    "item2Title": "Konferanslar",
+    "item2Desc": "Alanında uzman konuşmacılarla ilham verici konferanslar ve panel tartışmaları.",
+    "item3Title": "Projeler",
+    "item3Desc": "Sosyal sorumluluk ve girişimcilik projelerine liderlik ederek deneyim kazanma.",
+    "item4Title": "Networking",
+    "item4Desc": "Farklı üniversite ve ülkelerden öğrencilerle bir araya gelerek güçlü bağlar kurma.",
+    "item5Title": "Mentorluk",
+    "item5Desc": "Deneyimli profesyonellerden rehberlik alarak kariyer yolculuğuna hazırlık.",
+    "item6Title": "Sosyal Etkinlikler",
+    "item6Desc": "Takım ruhu oluşturan, eğlenceli ve bağ kurucu sosyal aktiviteler."
+  },
+  "team": {
+    "badge": "Yönetim Kurulu",
+    "title": "Ekibimiz",
+    "subtitle": "Kulübümüzü ileriye taşıyan tutkulu liderlerimiz.",
+    "president": "Başkan",
+    "vicePresident": "Başkan Yardımcısı",
+    "secretary": "Genel Sekreter",
+    "coordinator": "Etkinlik Koordinatörü"
+  },
+  "contact": {
+    "badge": "İletişim",
+    "title": "Bizimle İletişime Geçin",
+    "subtitle": "Sorularınız veya iş birliği teklifleriniz için bizimle iletişime geçin.",
+    "email": "E-posta",
+    "location": "Konum",
+    "locationValue": "İzmir Ekonomi Üniversitesi",
+    "social": "Sosyal Medya",
+    "joinTitle": "Kulübe Katılmak İster misiniz?",
+    "joinDesc": "Küresel Liderler Kulübü ailesine katılarak liderlik yolculuğunuza ilk adımı atın.",
+    "joinBtn": "Başvuru Formu"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "university": "İzmir Ekonomi Üniversitesi",
+    "club": "Küresel Liderler Kulübü"
+  }
+}
