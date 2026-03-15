@@ -5,8 +5,8 @@
       <div class="grid lg:grid-cols-2 gap-6 mb-6">
         <div class="relative rounded-2xl overflow-hidden min-h-[320px]">
           <img
-            src="https://www.ieu.edu.tr/aday/tr/UI/img/foto-galeri2/web-fotoalbum-o-3.jpg"
-            alt="IEU öğrencileri birlikte"
+            src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80"
+            alt="Liderlik ve vizyon"
             class="w-full h-full object-cover absolute inset-0"
           />
           <div class="absolute inset-0 bg-brand-950/60" />
@@ -21,8 +21,8 @@
 
         <div class="relative rounded-2xl overflow-hidden min-h-[320px]">
           <img
-            src="https://www.ieu.edu.tr/images/kampusizmir.webp"
-            alt="IEU kampüs İzmir"
+            src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80"
+            alt="Global vizyon"
             class="w-full h-full object-cover absolute inset-0"
           />
           <div class="absolute inset-0 bg-brand-950/60" />

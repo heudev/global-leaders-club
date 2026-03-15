@@ -7,12 +7,10 @@
       <div class="flex items-center justify-between h-16 lg:h-20">
         <!-- Logo -->
         <NuxtLink :to="localePath('/')" class="flex items-center gap-3">
-          <div class="w-9 h-9 rounded-lg bg-brand-900 flex items-center justify-center text-white font-bold text-xs tracking-tight">
-            KL
-          </div>
+          <img src="/logo-sm.png" alt="Global Leaders Club" class="w-9 h-9 rounded-full object-cover" />
           <div class="hidden sm:block leading-tight">
-            <div class="text-sm font-semibold text-slate-900">{{ $t('footer.club') }}</div>
-            <div class="text-[11px] text-slate-400">{{ $t('hero.badge') }}</div>
+            <div class="text-sm font-semibold" :class="scrolled ? 'text-slate-900' : 'text-white'">{{ $t('footer.club') }}</div>
+            <div class="text-[11px]" :class="scrolled ? 'text-slate-400' : 'text-white/70'">{{ $t('hero.badge') }}</div>
           </div>
         </NuxtLink>
 
@@ -22,7 +20,8 @@
             v-for="link in navLinks"
             :key="link.hash"
             :href="link.hash"
-            class="text-[13px] font-medium text-slate-500 hover:text-slate-900 transition-colors"
+            class="text-[13px] font-medium transition-colors"
+            :class="scrolled ? 'text-slate-500 hover:text-slate-900' : 'text-white/80 hover:text-white'"
             @click.prevent="scrollToSection(link.hash)"
           >
             {{ link.label }}
@@ -32,7 +31,8 @@
         <!-- Right Side -->
         <div class="flex items-center gap-3">
           <button
-            class="text-[13px] font-medium text-slate-400 hover:text-slate-700 transition-colors"
+            class="text-[13px] font-medium transition-colors"
+            :class="scrolled ? 'text-slate-400 hover:text-slate-700' : 'text-white/70 hover:text-white'"
             @click="toggleLocale"
           >
             {{ locale === 'tr' ? 'EN' : 'TR' }}
@@ -48,7 +48,8 @@
 
           <!-- Mobile Menu Button -->
           <button
-            class="lg:hidden p-2 -mr-2 text-slate-600 hover:text-slate-900 transition-colors"
+            class="lg:hidden p-2 -mr-2 transition-colors"
+            :class="scrolled ? 'text-slate-600 hover:text-slate-900' : 'text-white/80 hover:text-white'"
             @click="mobileOpen = !mobileOpen"
           >
             <svg v-if="!mobileOpen" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">

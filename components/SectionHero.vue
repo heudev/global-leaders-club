@@ -3,7 +3,7 @@
     <!-- Background Image -->
     <div class="absolute inset-0">
       <img
-        src="https://www.ieu.edu.tr/aday/tr/UI/big/kampuste-yasam.jpg"
+        src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1920&q=80"
         alt=""
         class="w-full h-full object-cover"
       />

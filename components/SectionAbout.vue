@@ -16,36 +16,36 @@
       <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-16">
         <div class="col-span-2 row-span-2">
           <img
-            src="https://www.ieu.edu.tr/aday/tr/UI/img/foto-galeri2/web-fotoalbum-o-1.jpg"
-            alt="IEU öğrencileri"
+            src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80"
+            alt="Öğrenciler birlikte çalışıyor"
             class="w-full h-full object-cover rounded-2xl"
           />
         </div>
         <div>
           <img
-            src="https://www.ieu.edu.tr/aday/tr/UI/img/foto-galeri2/web-fotoalbum-k110.jpg"
-            alt="IEU kampüs"
+            src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=600&q=80"
+            alt="Liderlik eğitimi"
             class="w-full h-full object-cover rounded-2xl"
           />
         </div>
         <div>
           <img
-            src="https://www.ieu.edu.tr/aday/tr/UI/img/foto-galeri2/web-fotoalbum-o-5.jpg"
-            alt="IEU öğrenci yaşamı"
+            src="https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=600&q=80"
+            alt="Takım çalışması"
             class="w-full h-full object-cover rounded-2xl"
           />
         </div>
         <div>
           <img
-            src="https://www.ieu.edu.tr/aday/tr/UI/img/foto-galeri2/web-fotoalbum-k120.jpg"
-            alt="IEU kampüs binası"
+            src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=600&q=80"
+            alt="Öğrenci topluluğu"
             class="w-full h-full object-cover rounded-2xl"
           />
         </div>
         <div>
           <img
-            src="https://www.ieu.edu.tr/aday/tr/UI/img/foto-galeri2/web-fotoalbum-o-10.jpg"
-            alt="IEU öğrenciler"
+            src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=600&q=80"
+            alt="Mezuniyet ve başarı"
             class="w-full h-full object-cover rounded-2xl"
           />
         </div>

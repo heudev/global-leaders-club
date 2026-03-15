@@ -4,7 +4,7 @@
       <!-- Full-width CTA banner -->
       <div class="relative rounded-2xl overflow-hidden mb-16 min-h-[360px]">
         <img
-          src="https://www.ieu.edu.tr/aday/tr/UI/img/foto-galeri2/web-fotoalbum-o-15.jpg"
+          src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
           alt="Join our community"
           class="w-full h-full object-cover absolute inset-0"
         />
@@ -63,8 +63,8 @@
           <div>
             <div class="text-xs text-slate-400 mb-1">{{ $t('contact.social') }}</div>
             <div class="flex gap-2">
-              <a href="https://instagram.com" target="_blank" rel="noopener" class="text-xs font-medium text-slate-600 hover:text-brand-600 transition-colors underline underline-offset-2">Instagram</a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener" class="text-xs font-medium text-slate-600 hover:text-brand-600 transition-colors underline underline-offset-2">LinkedIn</a>
+              <a href="https://www.instagram.com/global.leadersiue?igsh=OW9wenZycmZvM2o3" target="_blank" rel="noopener" class="text-xs font-medium text-slate-600 hover:text-brand-600 transition-colors underline underline-offset-2">Instagram</a>
+              <a href="https://www.linkedin.com/company/k%C3%BCresel-liderler-kul%C3%BCb%C3%BC/" target="_blank" rel="noopener" class="text-xs font-medium text-slate-600 hover:text-brand-600 transition-colors underline underline-offset-2">LinkedIn</a>
             </div>
           </div>
         </div>

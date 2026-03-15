@@ -1,8 +1,8 @@
 <template>
   <section class="relative h-[40vh] min-h-[280px]">
     <img
-      src="https://ieu.edu.tr/images/kampus35.jpg"
-      alt="IEU Güzelbahçe Kampüsü"
+      src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1920&q=80"
+      alt="Şehir manzarası"
       class="w-full h-full object-cover"
     />
     <div class="absolute inset-0 bg-brand-950/50" />
