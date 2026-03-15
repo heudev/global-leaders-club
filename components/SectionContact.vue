@@ -12,15 +12,30 @@
         <div class="relative flex flex-col items-center justify-center text-center p-10 min-h-[360px]">
           <h3 class="text-3xl sm:text-4xl font-bold text-white mb-4">{{ $t('contact.joinTitle') }}</h3>
           <p class="text-base text-slate-300 max-w-md mb-8 leading-relaxed">{{ $t('contact.joinDesc') }}</p>
-          <a
-            href="#"
-            class="inline-flex items-center gap-2 px-6 py-3 text-sm font-semibold text-brand-950 bg-white hover:bg-slate-100 rounded-lg transition-colors"
-          >
-            {{ $t('contact.joinBtn') }}
-            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-            </svg>
-          </a>
+          <div class="flex flex-wrap justify-center gap-3">
+            <a
+              href="https://forms.gle/w7CKSVSzVLe5eFAR6"
+              target="_blank"
+              rel="noopener"
+              class="inline-flex items-center gap-2 px-6 py-3 text-sm font-semibold text-brand-950 bg-white hover:bg-slate-100 rounded-lg transition-colors"
+            >
+              {{ $t('contact.memberFormBtn') }}
+              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+            </a>
+            <a
+              href="https://forms.gle/ofLEeCjrLs21iLZD8"
+              target="_blank"
+              rel="noopener"
+              class="inline-flex items-center gap-2 px-6 py-3 text-sm font-semibold text-white border border-white/30 hover:bg-white/10 rounded-lg transition-colors"
+            >
+              {{ $t('contact.activeFormBtn') }}
+              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+            </a>
+          </div>
         </div>
       </div>
 
@@ -34,8 +49,8 @@
           </div>
           <div>
             <div class="text-xs text-slate-400 mb-0.5">{{ $t('contact.email') }}</div>
-            <a href="mailto:kuresellideler@ieu.edu.tr" class="text-sm font-semibold text-slate-900 hover:text-brand-600 transition-colors">
-              kuresellideler@ieu.edu.tr
+            <a href="mailto:globalleadersclubiue@gmail.com" class="text-sm font-semibold text-slate-900 hover:text-brand-600 transition-colors">
+              globalleadersclubiue@gmail.com
             </a>
           </div>
         </div>

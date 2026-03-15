@@ -80,7 +80,8 @@
     "social": "Sosyal Medya",
     "joinTitle": "Kendini geliştirebileceğin, yeni insanlar tanıyabileceğin ve birlikte üretebileceğin bir topluluk mu arıyorsun?",
     "joinDesc": "Liderlik, proje geliştirme, atölyeler ve gerçek bir ekip ruhu seni bekliyor! Küresel düşünmek, cesur adımlar atmak ve birlikte hareket etmek istiyorsan doğru yerdesin. Burada herkes birbirinden öğreniyor ve birlikte büyüyor.",
-    "joinBtn": "WhatsApp Grubumuza Katıl"
+    "memberFormBtn": "Üye Formu",
+    "activeFormBtn": "Aktif Üye Formu"
   },
   "footer": {
     "rights": "Tüm hakları saklıdır.",
